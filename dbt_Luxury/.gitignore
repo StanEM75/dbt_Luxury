@@ -1,0 +1,5 @@
+
+target/
+dbt_packages/
+logs/
+my_dbt_luxury/

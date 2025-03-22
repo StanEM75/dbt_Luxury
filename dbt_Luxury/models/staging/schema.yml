@@ -1,0 +1,37 @@
+version: 2
+
+sources:
+  - name: raw               
+    database: LUXURY_HOTELS
+    schema: PUBLIC
+    tables:
+      - name: TOP_50_LUXURY_HOTELS
+        description: "Raw data table."
+  
+
+models:
+  - name: Top_50_Staging
+    description: "Imports data and corrects data types."
+    columns:
+      - name: RANK
+        description: "Unique identifier for each hotel."
+        tests:
+          - not_null
+          - unique
+      - name: NAME
+        description: "Unique name for each hotel."
+        tests:
+          - not_null
+          - unique
+      - name: LOCATION
+        description: "City where each hotel is located."
+        tests:
+          - not_null
+      - name: NUMBER_OF_ROOMS
+        description: "Total number of rooms in the hotel."
+        tests:
+          - not_null
+      - name: ENTRY_PRICE_IN_USD
+        description: "Price of the cheapest room in the hotel."
+      - name: AMENITIES
+        description: "Services included for clients."
