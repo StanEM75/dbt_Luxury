@@ -7,3 +7,4 @@ SELECT
     CAST(HOTEL_AMMENTIES AS VARCHAR(400)) AS AMENITIES -- Convert Hotel_Ammenties to String and rename it Amenities to be more simple
 FROM 
     {{ source('raw', 'TOP_50_LUXURY_HOTELS') }}
+

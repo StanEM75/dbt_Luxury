@@ -1,3 +1,5 @@
+ {{ config(materialized='table') }}
+
 SELECT 
     LOCATION AS CITY, -- Rename to make it clear that we are going to analyze through city dimensions
     SUM(NUMBER_OF_ROOMS) AS AVAILABLE_ROOMS, -- Count all the hotel rooms available in the city

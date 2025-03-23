@@ -1,0 +1,51 @@
+RANK,NAME,LOCATION,NUMBER_OF_ROOMS,ENTRY_PRICE_IN_USD,SWIMMING_POOL,SPA,FITNESS_CENTRE,PET_FRIENDLY,FAMILY_FRIENDLY,BEACH,CINEMA,SHOPPING
+1,Capella Bangkok,Bangkok,101,600,1,1,1,1,1,0,0,0
+2,Passalacqua,Lake Como,24,1300,0,1,1,0,1,0,0,0
+3,Rosewood Hong Kong,Hong Kong,413,650,1,1,1,0,1,0,0,0
+4,Cheval Blanc,Paris,72,3000,1,1,1,1,1,0,0,0
+5,The Upper House,Hong Kong,117,650,1,0,1,0,1,0,0,0
+6,Raffles Singapore,Singapore,115,2000,1,1,1,0,1,0,0,0
+7,Aman Tokyo,Tokyo,84,1800,1,1,1,0,1,0,0,0
+8,Soneva Fushi,Maldives,72,2800,1,1,1,0,1,1,0,0
+9,Atlantis The Royal,Dubai,795,460,1,0,0,0,0,1,0,0
+10,Nihi Sumba,Sumba Island,27,1300,1,1,1,0,0,1,0,0
+11,Claridge's,London,269,1200,1,1,1,1,1,0,0,0
+12,Mandarin Oriental Bangkok,Bangkok,331,757,1,1,1,0,1,0,0,0
+13,Raffles London at The OWO,London,120,1650,1,1,1,0,0,0,0,0
+14,Four Seasons Bangkok at Chao Phraya River,Bangkok,299,450,1,1,1,1,1,0,0,0
+15,Hotel de Crillon,Paris,124,3000,1,1,1,1,1,0,0,0
+16,Chable Yucatan,Chochola,40,770,1,1,1,1,1,0,0,0
+17,Hotel Du Cap-Eden-Roc,Antibes,111,1650,1,1,1,0,1,0,0,0
+18,Maroma,Riviera Maya,72,1000,1,1,1,1,1,1,0,0
+19,Four Seasons Firenze,Florence,116,1000,1,1,1,1,1,0,0,0
+20,Borgo Santandrea,Amalfi,52,4000,1,1,1,0,0,1,0,0
+21,Desa Potato Head,Bali,225,350,1,1,1,0,1,1,0,0
+22,Bulgari Tokyo,Tokyo,98,2000,1,1,1,0,1,0,0,0
+23,The Lana,Dubai,225,555,1,1,1,0,1,1,0,0
+24,Rosewood Sao Paulo,Sao Paulo,160,700,1,1,1,1,1,0,0,0
+25,The Calile,Brisbane,175,330,1,1,1,0,1,0,0,0
+26,The Siam,Bangkok,38,1250,1,1,1,0,0,0,0,0
+27,Park Hyatt Kyoto,Kyoto,70,2000,0,1,1,0,1,0,0,0
+28,Mount Nelson,Cape Town,198,950,1,1,1,1,1,0,0,0
+29,One&Only Mandarina,Riviera Nayarit,105,1300,1,1,1,1,1,1,0,0
+30,The Carlyle,New York,192,1065,0,1,1,1,1,0,0,0
+31,La Mamounia,Marrakech,209,900,1,1,1,1,1,1,1,1
+32,Four Seasons Madrid,Madrid,200,1200,1,1,1,1,1,0,0,1
+33,Capella Singapore,Singapore,112,900,1,1,1,1,1,1,0,0
+34,Four Seasons at The Surf Club,Surfside,102,1800,1,1,1,1,1,1,0,0
+35,Hotel Bel-Air,Los Angeles,103,995,1,1,1,1,1,0,0,0
+36,Eden Rock,St. Barths,37,1700,0,1,1,1,1,1,0,0
+37,Aman New York,New York,83,1750,1,1,1,1,1,0,0,0
+38,Royal Mansour,Marrakech,53,1900,1,1,1,1,1,0,0,0
+39,Amangalla,Galle,31,850,1,1,0,0,1,0,0,0
+40,Le Bristol,Paris,190,3200,1,1,1,1,1,0,0,0
+41,Gleneagles,Auchterarder,232,700,1,1,1,1,1,0,0,0
+42,Castello di Reschio,Lisciano Niccone,36,1300,1,1,1,0,1,0,0,0
+43,Sujan Jawai,Rajasthan,12,1200,0,0,0,0,0,0,0,0
+44,Singita Kruger National Park,Kruger National Park,23,1900,1,1,1,0,0,0,0,0
+45,Six Senses Zighy Bay,Zaghi,82,1150,1,1,1,0,1,1,0,0
+46,The Connaught,London,122,1250,1,1,1,1,1,0,0,0
+47,The Brando,Tetiaroa,35,800,0,0,0,0,0,1,0,0
+48,Hotel Esencia,Tulum,51,1100,1,1,1,1,0,1,0,0
+49,The Tasman,Hobart,152,235,0,0,1,0,0,0,0,0
+50,Kokomo Private Island,Yaukuve Levu Island,26,3500,1,1,1,0,1,1,0,0
